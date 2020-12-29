@@ -1,0 +1,13 @@
+automake
+bzip2
+cmake
+gcc
+gcc-c++
+git
+gnupg
+make
+openssl-devel
+python3-devel
+tar
+xz
+python3-virtualenv

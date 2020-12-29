@@ -1,0 +1,6 @@
+vi
+less
+procps-ng
+nmap-ncat
+rpm
+microdnf

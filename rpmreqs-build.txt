@@ -11,3 +11,5 @@ python3-devel
 tar
 xz
 python3-virtualenv
+libffi-devel
+
